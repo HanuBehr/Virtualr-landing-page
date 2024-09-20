@@ -5,6 +5,8 @@
 
 # 🌐 **Virtualr** 🎨
 
+# Project in master branch!
+
 > 🚀 Hi! I built this landing page using **Vite ⚡**, **React ⚛️**, and **Tailwind CSS 🎨**. It's designed to be fast, clean, and easy to navigate!
 
 ---
